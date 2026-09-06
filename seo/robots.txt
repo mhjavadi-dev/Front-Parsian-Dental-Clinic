@@ -1,0 +1,9 @@
+# robots.txt — کلینیک دندانپزشکی پارسیان
+# https://parsian-dental.ir/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /seo/
+Disallow: /assets/fonts/
+
+Sitemap: https://parsian-dental.ir/seo/sitemap.xml
