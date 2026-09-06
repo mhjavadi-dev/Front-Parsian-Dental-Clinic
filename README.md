@@ -1,17 +1,10 @@
 # Front-Parsian-Dental-Clinic
 ui (html -css- js) for Parsian Dental Clinic. Usable for all languages.
------------------------------------------------------------------------
-================================================================================
-            PROJECT STUDY REPORT — PARSIAN DENTAL CLINIC WEBSITE
-                          کلینیک دندانپزشکی پارسیان
-================================================================================
-Report Date:       July 15, 2026
-Project Domain:    parsian-dental.ir
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+live preview:    parsian-dental.ir
 Project Type:      Static Multi-Page Website
 Language:          Farsi (Persian) — RTL Direction
-================================================================================
-
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  1. PROJECT OVERVIEW & INITIAL IDEA
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
